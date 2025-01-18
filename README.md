@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnkitaDhagate
+- 👋 Hi, I’m @AnkitaBharamaDhagate
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Third Year | Computer Science Engineering | Artificial intelligence and machine learning | B.tech
 - 📫 How to reach me dhagateankita@gmail.com
