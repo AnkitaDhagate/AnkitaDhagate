@@ -4,7 +4,7 @@
 - 🔭 **I’m currently working on:** Smart Study Planner & Productivity Tracker
 - 🌱 **I’m currently learning:** Advanced Java, Spring Boot, AI/ML Concepts, React.js
 - 👯 **I’m looking to collaborate on:** Java-based Web Applications & AI-enabled Student Projects
-- 🤔 **I’m looking for help with:**Advanced Java Backend
+- 🤔 **I’m looking for help with:** Advanced Java Backend
 - 💬 **Ask me about:** Java, OOP, SQL, DSA, HTML, CSS, JavaScript
 - 📫 **How to reach me:** dhagateankita@gmail.com
 - 📄 **Know about my experiences**  https://drive.google.com/file/d/1i4KFzIGHJiTGKUUwdN91b29ZrazmovHh/view?usp=drive_link
