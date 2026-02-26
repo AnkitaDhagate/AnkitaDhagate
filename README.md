@@ -7,7 +7,7 @@
 - 🤔 **I’m looking for help with:** Advanced Java Backend
 - 💬 **Ask me about:** Java, OOP, SQL, DSA, HTML, CSS, JavaScript
 - 📫 **How to reach me:** dhagateankita@gmail.com
-- 📄 **Know about my experiences**  https://drive.google.com/file/d/1i4KFzIGHJiTGKUUwdN91b29ZrazmovHh/view?usp=drive_link
+
 - ⚡ **Fun fact:** I enjoy solving coding problems and I believe consistency beats talent 😄
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankita-dhagate1525/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhagateankita@gmail.com) 
