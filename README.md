@@ -93,7 +93,7 @@ public class Ankita extends Developer {
 
 ```
 ╔════════════════════════════════════════════════════════════════╗
-║  React 19  →  JWT Auth Filter  →  Spring Boot  →  MySQL 8     ║
+║  React 19  →  JWT Auth Filter  →  Spring Boot  →  MySQL 8      ║
 ║                    ↓                                           ║
 ║         SERIALIZABLE Isolation + PESSIMISTIC_WRITE locks       ║
 ║                    ↓                                           ║
@@ -212,17 +212,17 @@ public class Ankita extends Developer {
 ## 🎓 Education
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│  🎓  B.Tech — Artificial Intelligence & Machine Learning        │
-│      DKTE Society's Textile and Engineering Institute           │
-│      2022 – 2026  |  CGPA: 7.85                                │
-├─────────────────────────────────────────────────────────────────┤
-│  📘  HSC (Science) — Lord Jiveshwar School & Junior College     │
-│      2022  |  80%                                               │
-├─────────────────────────────────────────────────────────────────┤
-│  📗  SSC — Vyankatrao High School & Junior College              │
-│      2020  |  95.60%  🏆                                        │
-└─────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────
+│  🎓  B.Tech — Artificial Intelligence & Machine Learning       
+│      DKTE Society's Textile and Engineering Institute          
+│      2022 – 2026  |  CGPA: 7.85                               
+├─────────────────────────────────────────────────────────────────
+│  📘  HSC (Science) — Lord Jiveshwar School & Junior College     
+│      2022  |  80%                                               
+├─────────────────────────────────────────────────────────────────
+│  📗  SSC — Vyankatrao High School & Junior College              
+│      2020  |  95.60%  🏆                                        
+└─────────────────────────────────────────────────────────────────
 ```
 
 ---
