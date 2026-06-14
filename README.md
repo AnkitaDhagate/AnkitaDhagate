@@ -25,9 +25,9 @@
 ```java
 public class Ankita extends Developer {
 
-    String  location  = "Ichalkaranji, Maharashtra, India 🇮🇳";
+    String  location  = "Pune, Maharashtra, India 🇮🇳";
     String  degree    = "B.Tech AIML @ DKTE Society's T&E Institute (2022–2026)";
-    float   cgpa      = 7.85f;
+    float   cgpa      = 7.97f;
     String  focus     = "Backend Engineering · Spring Boot · FinTech Systems";
 
     String[] currentlyDoing = {
